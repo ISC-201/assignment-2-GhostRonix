@@ -1,1 +1,30 @@
-# assignment-2
+# Assignment-2
+- [ ] Create standalone **Asteroids** repository
+  - [ ] Create development branch, and make default.
+  - [ ] Release initial commit as v0.0.1
+- [ ] Create `Vector2` class
+  - [ ] Add _Length_ function
+  - [ ] Add _SquaredLength_ function
+  - [ ] Add _Normalize_ function
+  - [ ] Overload _operator=_
+  - [ ] Overload _operator+_
+  - [ ] Overload _operator-_
+  - [ ] Overload _operator*_
+  - [ ] Overload _operator*_
+  - [ ] Overload _operator==_
+  - [ ] Overload _operator!=_  
+- [ ] Create `Vector3` class
+  - [ ] Add _Length_ function
+  - [ ] Add _SquaredLength_ function
+  - [ ] Add _Normalize_ function
+  - [ ] Overload _operator=_
+  - [ ] Overload _operator+_
+  - [ ] Overload _operator-_
+  - [ ] Overload _operator*_
+  - [ ] Overload _operator*_
+  - [ ] Overload _operator==_
+  - [ ] Overload _operator!=_  
+- [ ] Respond to input
+- [ ] Create the player ship
+  - [ ] Make the player ship react to input
+- [ ] Add **Asteroids** repo as module to this repo
